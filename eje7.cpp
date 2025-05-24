@@ -7,7 +7,7 @@ int main() {
 	const int PRECIO_HORA = 1000; // con este ejercicio aprendi´ que es mejercicio usar constantemente int porque es ma´s seguro
 	
 	
-	cout << "Ingresa cuantas horas trabajaste esta semana";
+	cout << "Cuantas horas trabajaste esta semana???";
 	cin >> horasTrabajadas;
 	
 	while (horasTrabajadas  <= 0) {
